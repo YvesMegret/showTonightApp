@@ -1,2 +1,5 @@
-/* Empty. Add your own CSS if you like */
-<ion-view view-title="Accueil" class="dashboard">
+/* Empty. Add your own CSS if you like */ 
+
+img.logo { width: 100%; }
+.dashboard { color: blue; }
+/* h2{color:blue;} */
